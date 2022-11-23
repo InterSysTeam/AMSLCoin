@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# AMSLCoin
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is the smart contract for the ASMLCoin, the coin of the reward system of the AMSLApp
+
 
 Try running some of the following tasks:
 
